@@ -1,2 +1,1 @@
-# arithmetic-interpreter-Haskell
-a arithmetic-interpreter
+# arithmetic-interpreter-haskell
